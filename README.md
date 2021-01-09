@@ -1,5 +1,5 @@
 
-<center>:wave: Hi there, My name is GyeongJun.</center>
+:wave: Hi there, My name is GyeongJun.
 
 :office: I am a Frontend Developer working at CEEDUP Inc. 
 
