@@ -5,8 +5,6 @@
 
 :ledger: I majored in Web Database. 
 
-:school: The school wasn't really that high ranking. But I think I got a good education from good professors. I also had many good times.
-
 :computer: I started programming with Java in 2019, 
 
 :heart_eyes: but in the summer of 2020, I fell in love with JavaScript and started developing frontend.
