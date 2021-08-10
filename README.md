@@ -7,7 +7,7 @@
 
 :computer: I started programming with Java in 2019, 
 
-:heart_eyes: but in the summer of 2020, I fell in love with JavaScript and started developing frontend.
+:heart_eyes: I love UI / UX design
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
