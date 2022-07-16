@@ -1,13 +1,5 @@
 
-:wave: Hi there, My name is GyeongJun.
-
-:office: I am a Frontend Developer working at CEEDUP Inc. 
-
-:ledger: I majored in Web Database. 
-
-:computer: I started programming with Java in 2019, 
-
-:heart_eyes: I love UI / UX design
+:wave: Hi there, 
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,12 +9,6 @@
 
 ### Version Control
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-### Hosting/SaaS
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-
-### Databases
-<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
 ### GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cockyb&show_icons=true)
