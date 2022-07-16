@@ -19,7 +19,8 @@
 | Type       	| Date              	| Contents              	| Oragnization        	|
 |------------	|-------------------	|-----------------------	|---------------------	|
 | Major      	| 2018.03 ~ 2021.02 	| Major in WebDatabase  	| YeungJin University 	|
-| Employment 	| 2020.11 ~         	| Frontend Developer    	| CEEDUP. Inc         	|
+| Employment 	| 2020.11 ~ 2021.10   | Frontend Developer    	| CEEDUP. Inc         	|
+| Employment 	| 2021.10 ~         	| Frontend Developer    	| dooub         	      |
 
 ### Contacts
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
